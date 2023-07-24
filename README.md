@@ -10,7 +10,7 @@ Source code from the following:
 
 ## Data
 
-Directory  ```streams``` includes  a BOOKS stream used in the experiments which contains 10K queries and 4625204 updates 
+Directory  ```streams``` includes  a readme file with a link for a BOOKS stream used in the experiments which contains 10K queries and 4625204 updates 
 - BOOKS.mix
 
 
